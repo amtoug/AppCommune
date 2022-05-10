@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup Gestion Des Attestations", "Setup Gestion Des Attestations\Setup Gestion Des Attestations.vdproj", "{51429D7F-4AB0-4E01-93C6-64EE7F000732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51429D7F-4AB0-4E01-93C6-64EE7F000732}.Debug|Default.ActiveCfg = Debug
+		{51429D7F-4AB0-4E01-93C6-64EE7F000732}.Debug|Default.Build.0 = Debug
+		{51429D7F-4AB0-4E01-93C6-64EE7F000732}.Release|Default.ActiveCfg = Release
+		{51429D7F-4AB0-4E01-93C6-64EE7F000732}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA6CB009-25A0-4C5C-AF9A-EBAE753A0EB1}
+	EndGlobalSection
+EndGlobal
